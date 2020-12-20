@@ -234,6 +234,9 @@ The additional parameter **debug** is used to start the app in debugger mode. Am
 
 # Node.JS
 
+The basics of backend development remain the same like building REST API's, using JSON for data transfer and Postman for API testing. 
+For Node just go through the videos and understand the syntax of the language and build some applcations which would give you a better idea. 
+
 [Node.JS Basics](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 [Express](https://www.youtube.com/watch?v=L72fhGm1tfE)
 
