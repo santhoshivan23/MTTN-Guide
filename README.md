@@ -13,6 +13,16 @@ Hello Developers, we will be going through various tech stacks we use to build, 
 
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 
+### Flutter:
+
+- [Flutter: Stateful vs Stateless Widgets](https://medium.com/flutter-community/flutter-stateful-vs-stateless-db325309deae)
+- [Introduction to State Management in Flutter](https://medium.com/@azamsharp/introduction-to-state-management-in-flutter-40ff07f00f81)
+- [Dart asynchronous programming: Futures](https://medium.com/dartlang/dart-asynchronous-programming-futures-96937f831137)
+- [Cloud Firestore Basics in Flutter](https://medium.com/firebase-developers/cloud-firestore-basics-in-flutter-68c7ec42eeca)
+- [Building a BMI app with Flutter](https://medium.com/@manthangupta109/building-a-bmi-app-with-flutter-f14dfe2348)
+- [Weather app in Flutter](https://medium.com/flutterdevs/weather-app-using-api-4e26bff0d1d1)
+- [Building a chat app with Flutter and Firebase](https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
+
 ### Backend
 
 - [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
